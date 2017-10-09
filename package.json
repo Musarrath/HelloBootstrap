@@ -1,0 +1,25 @@
+{
+  "name": "hellobootstrap",
+  "version": "1.0.0",
+  "description": "new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musarrath/HelloBootstrap.git"
+  },
+  "author": "musarrath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musarrath/HelloBootstrap/issues"
+  },
+  "homepage": "https://github.com/Musarrath/HelloBootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "git": "^0.1.5",
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1"
+  }
+}
